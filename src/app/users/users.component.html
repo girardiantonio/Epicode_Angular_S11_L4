@@ -1,0 +1,15 @@
+<div id="center" class="container-fluid p-5 bg-secondary-subtle">
+  <div class="row">
+    <div class="col" *ngFor="let item of allUsers">
+      <div class="card flex justify-content-center p-2 text-bg-secondary">
+        <p-card header="{{ item.username }}">
+          <p class="m-1"><b>Nome:</b> {{ item.nome }}</p>
+          <p class="m-1"><b>Cognome:</b> {{ item.cognome }}</p>
+          <p class="m-1"><b>Email:</b> {{ item.email }}</p>
+          <p class="m-1"><b>Genere:</b> {{ item.genere }}</p>
+          <p class="m-1"><b>Bio:</b> {{ item.bio }}</p>
+        </p-card>
+      </div>
+    </div>
+  </div>
+</div>

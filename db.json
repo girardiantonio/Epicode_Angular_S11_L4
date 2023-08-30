@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "email": "riponev@mailinator.com",
+      "password": "$2a$10$lKRuLYehKTYFVlvnDa0bC.ymrGvnziHi5WWL5.ZDg7Pmx8a6QOsTa",
+      "nome": "Eius minus doloremqu",
+      "cognome": "Sed aute corporis qu",
+      "username": "Tempor exercitatione",
+      "confermaPassword": "Pa$$w0rd!",
+      "genere": "altro",
+      "bio": "Commodo dolorum sed ",
+      "id": 1
+    },
+    {
+      "email": "dadaxo@mailinator.com",
+      "password": "$2a$10$u3zc99FPLI6r0s9kerHBJ.5v8CwPmG3qi/GbNljMaXm1fJ3NTIE4u",
+      "nome": "Corporis beatae irur",
+      "cognome": "Deleniti excepteur c",
+      "username": "Sed aliquid repellen",
+      "confermaPassword": "Pa$$w0rd!",
+      "genere": "donna",
+      "bio": "Eius minim laudantiu",
+      "id": 2
+    },
+    {
+      "email": "admin@prova.com",
+      "password": "$2a$10$IDDZ6P6AnsfPXP/3Tq/yBe7KPM2/GtM7cGORimivCdwCAcBwuX/fu",
+      "nome": "admin",
+      "cognome": "admin",
+      "username": "admin",
+      "confermaPassword": "ciao",
+      "genere": "Uomo",
+      "bio": "admin",
+      "id": 3
+    }
+  ]
+}
